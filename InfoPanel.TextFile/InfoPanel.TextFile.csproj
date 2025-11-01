@@ -16,10 +16,11 @@
     
     <!-- Assembly Metadata (Template placeholders) -->
     <AssemblyTitle>InfoPanel.TextFile</AssemblyTitle>
-    <AssemblyDescription>Read text from text file</AssemblyDescription>
+    <AssemblyDescription>Real-time text file monitoring plugin for InfoPanel</AssemblyDescription>
     <AssemblyCompany>F3NN3X</AssemblyCompany>
     <AssemblyCopyright>Copyright © F3NN3X 2025</AssemblyCopyright>
     <AssemblyProduct>InfoPanel TextFile Plugin</AssemblyProduct>
+    <RepositoryUrl>https://github.com/F3NN3X/InfoPanel.TextFile</RepositoryUrl>
     
     <!-- Plugin-Specific Configuration -->
     <GenerateRuntimeConfigurationFiles>false</GenerateRuntimeConfigurationFiles>

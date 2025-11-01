@@ -2,7 +2,7 @@
 
 **Version:** 1.0.0  
 **Author:** F3NN3X  
-**Website:** https://myplugin.com
+**Website:** https://github.com/F3NN3X/InfoPanel.TextFile
 
 ## Description
 
@@ -235,7 +235,8 @@ For issues, questions, or contributions:
 - Check debug logs first (`InfoPanel.TextFile-debug.log`)
 - Review configuration settings in the `.ini` file
 - Verify file paths and permissions
-- Contact: F3NN3X (https://myplugin.com)
+- Visit: https://github.com/F3NN3X/InfoPanel.TextFile
+- Contact: F3NN3X
 
 ## Acknowledgments
 
